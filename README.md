@@ -4,10 +4,6 @@
 
 # hexo-theme-butterfly
 
-根据hexo-filter-mermaid-diagrams的文档进行了更改
-
-https://github.com/webappdevelp/hexo-filter-mermaid-diagrams
-
 ![master version](https://img.shields.io/github/package-json/v/jerryc127/hexo-theme-butterfly/master?color=%231ab1ad&label=master)
 ![master version](https://img.shields.io/github/package-json/v/jerryc127/hexo-theme-butterfly/dev?label=dev)
 ![https://img.shields.io/npm/v/hexo-theme-butterfly?color=%09%23bf00ff](https://img.shields.io/npm/v/hexo-theme-butterfly?color=%09%23bf00ff)
